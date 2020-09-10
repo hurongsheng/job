@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "frame/util"
+	"job/util"
 	"os"
 	"strings"
 )
@@ -16,7 +16,7 @@ func main() {
 	arr := strings.Split(req, ",")
 	var minN *int
 	for _, numStr := range arr {
-		n := StrToInt(numStr)
+		n := util.StrToInt(numStr)
 		if minN == nil {
 			minN = &n
 			continue

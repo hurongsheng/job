@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	. "frame/leetcode/linkrange"
-	"frame/leetcode/stringrange"
+	. "job/leetcode/linkrange"
+	"job/leetcode/stringrange"
 )
 
 func main() {
