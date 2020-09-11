@@ -1,7 +1,7 @@
 ### leetcode solution  [返回](../)
 
 ### 数字问题
-7.[整数翻转](intrange/7_int_reverse.go)
+- 7.[整数翻转](intrange/7_int_reverse.go)
 - 8.[字符串转整数](intrange/8_str_to_int.go)
 - 9.[回文数](intrange/9_is_palindrome_int.go)
 - 11.[盛最多水的容器](intrange/11_max_area.go)
@@ -24,6 +24,12 @@
 - 109.[链表转二叉树](linkrange/109_sorted_list_to_bst.go)
 - 141.[判断链表成环](linkrange/141_has_cycle.go)
 - 142.[检索成环节点](linkrange/142_detect_cycle.go)
+- 160.[相交链表节点] 穷举/hash表法
+- 203.[移除链表元素] 遍历
+- 206.[翻转链表](linkrange/206_reverse_listnode.go)
+- 234.[回文链表] 转列表再双指针比较
+- 234.[删除节点] 遍历比较即可
+- 328.[奇偶链表](linkrange/328_odd_event_list.go)
 
 ### 数组问题
 - 1.[两数之和](slicerange/1_two_sum.go)

@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2428c1-a65b-4efe-b1a9-f090ce20dbbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/109_sorted_list_to_bst.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/141_has_cycle.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/142_detect_cycle.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/92_reverse_between.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/206_reverse_listnode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/linkrange/328_odd_event_list.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/linkrange/86_partition_node.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/linkrange/86_partition_node.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,40 +16,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[147]对链表进行插入排序.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/models.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+              <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/linkrange/92_reverse_between.go">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[160]相交链表.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="139">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="275">
+                <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[328]奇偶链表.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/linkrange/328_odd_event_list.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[237]删除链表中的节点.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-226" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[234]回文链表.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[206]反转链表.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/linkrange/206_reverse_listnode.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
               <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[203]移除链表元素.go">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -103,12 +147,17 @@
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[141]环形链表.go" />
         <option value="$PROJECT_DIR$/leetcode/linkrange/141_has_cycle.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[142]环形链表 II.go" />
-        <option value="$PROJECT_DIR$/leetcode/readme.md" />
         <option value="$PROJECT_DIR$/leetcode/linkrange/142_detect_cycle.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/models..go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/models.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[147]对链表进行插入排序.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[160]相交链表.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[206]反转链表.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[234]回文链表.go" />
+        <option value="$PROJECT_DIR$/leetcode/linkrange/206_reverse_listnode.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[328]奇偶链表.go" />
+        <option value="$PROJECT_DIR$/leetcode/readme.md" />
       </list>
     </option>
   </component>
@@ -140,6 +189,11 @@
               <item name="job" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="linkrange" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="job" type="b2602c69:ProjectViewProjectNode" />
@@ -201,7 +255,7 @@
     <frame x="0" y="23" width="1440" height="816" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20272206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,7 +273,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.23137535" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.23137535" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -227,61 +281,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/acm/min_num.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acm/sort.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acm/top10.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#14#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/acm/top10_2.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.sum">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/util/simple_curl.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -352,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/25_swap_k_listnode.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -408,13 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/92_reverse_between.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -515,23 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="223">
-            <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/models..go">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -570,6 +538,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/gui-bing-pai-xu-die-dai-fa-bottom-up-by-da-wei-wan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="134" column="19" lean-forward="true" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[148]排序链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/92_reverse_between.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/xiang-jiao-lian-biao-by-leetcode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[160]相交链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[203]移除链表元素.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/25_swap_k_listnode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[206]反转链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/hui-wen-lian-biao-by-leetcode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[234]回文链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[237]删除链表中的节点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/206_reverse_listnode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[328]奇偶链表.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/linkrange/328_odd_event_list.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="275">
+            <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
