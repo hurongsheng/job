@@ -20,6 +20,10 @@
 - 82.[删除有序链表重复元素2](linkrange/82_delete_dup_node2.go)
 - 83.[删除有序链表重复元素](linkrange/83_delete_dup_node.go)
 - 86.[分割链表](linkrange/86_partition_node.go)
+- 92.[转换链表2](linkrange/92_reverse_between.go)
+- 109.[链表转二叉树](linkrange/109_sorted_list_to_bst.go)
+- 141.[判断链表成环](linkrange/141_has_cycle.go)
+- 142.[检索成环节点](linkrange/142_detect_cycle.go)
 
 ### 数组问题
 - 1.[两数之和](slicerange/1_two_sum.go)

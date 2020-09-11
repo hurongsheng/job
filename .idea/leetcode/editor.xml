@@ -3,6 +3,54 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[109]有序链表转换二叉搜索树.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[109]有序链表转换二叉搜索树.go" />
+              <option name="questionId" value="109" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[138]复制带随机指针的链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[138]复制带随机指针的链表.go" />
+              <option name="questionId" value="138" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[141]环形链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[141]环形链表.go" />
+              <option name="questionId" value="141" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[142]环形链表 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[142]环形链表 II.go" />
+              <option name="questionId" value="142" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go" />
+              <option name="questionId" value="143" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[147]对链表进行插入排序.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[147]对链表进行插入排序.go" />
+              <option name="questionId" value="147" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[24]两两交换链表中的节点.go">
           <value>
             <LeetcodeEditor>
@@ -56,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[86]分隔链表.go" />
               <option name="questionId" value="86" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[92]反转链表 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[92]反转链表 II.go" />
+              <option name="questionId" value="92" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -19,7 +19,7 @@
  * }
  */
 
-package main
+package linkrange
 
 //type ListNode struct {
 //	Val  int
