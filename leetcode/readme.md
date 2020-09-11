@@ -15,7 +15,11 @@
 - 19.[删除链表倒数第N个节点](linkrange/19_delete_link_node.go)
 - 21.[合并两个有序链表](linkrange/21_merge_two_linknode.go)
 - 23.[合并N个有序链表](linkrange/23_merge_n_linknode.go)
-- 24.[交换相邻的两个节点](linkrange/24_swap_node.go.go)
+- 24.[交换相邻的两个节点](linkrange/24_swap_node.go)
+- 25.[K 个一组翻转链表](linkrange/25_swap_k_listnode.go)
+- 82.[删除有序链表重复元素2](linkrange/82_delete_dup_node2.go)
+- 83.[删除有序链表重复元素](linkrange/83_delete_dup_node.go)
+- 86.[分割链表](linkrange/86_partition_node.go)
 
 ### 数组问题
 - 1.[两数之和](slicerange/1_two_sum.go)

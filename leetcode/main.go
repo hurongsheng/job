@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	. "job/leetcode/linkrange"
-	"job/leetcode/stringrange"
 )
 
 func main() {
@@ -29,7 +28,8 @@ func main() {
 	//res := LongestCommonPrefix([]string{"flower", "flow", "floght"})
 	//print(intrange.ThreeSumClosest([]int{-1, 0, 1, 2, -1, -4}, 2), 2)
 	//print(intrange.ThreeSumClosest([]int{-1, 2, 1, -4}, 1), 2)
-	print(stringrange.GenerateParenthesis(3), []string{"((()))", "(()())", "(())()", "()(())", "()()()"})
+	//print(stringrange.GenerateParenthesis(3), []string{"((()))", "(()())", "(())()", "()(())", "()()()"})
+	print(DeleteDuplicates(&ListNode{1, &ListNode{1, nil}}), nil)
 
 }
 

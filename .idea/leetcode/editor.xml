@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[24]两两交换链表中的节点.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[24]两两交换链表中的节点.go" />
+              <option name="questionId" value="24" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[25]K 个一组翻转链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[25]K 个一组翻转链表.go" />
+              <option name="questionId" value="25" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.go" />
+              <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[61]旋转链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[61]旋转链表.go" />
+              <option name="questionId" value="61" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.go" />
+              <option name="questionId" value="82" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[83]删除排序链表中的重复元素.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[83]删除排序链表中的重复元素.go" />
+              <option name="questionId" value="83" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[86]分隔链表.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[86]分隔链表.go" />
+              <option name="questionId" value="86" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
