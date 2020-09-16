@@ -30,6 +30,8 @@
 - 234.[回文链表] 转列表再双指针比较
 - 234.[删除节点] 遍历比较即可
 - 328.[奇偶链表](linkrange/328_odd_event_list.go)
+- 445.[链表相加2](linkrange/445_add_two_linknode.go)
+- 725.[分割链表](linkrange/725_split_list.go)
 
 ### 数组问题
 - 1.[两数之和](slicerange/1_two_sum.go)
