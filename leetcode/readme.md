@@ -47,3 +47,15 @@
 - 17.[电话号码的字符组合](stringrange/17_phone_num.go)
 - 20.[有效的括号](stringrange/20_is_valid_stack.go)
 - 22.[括号生成](stringrange/22_parenthesis.go)
+
+### 树问题
+- 92.[二叉树中序遍历](tree/94_inorder_traversal.go)
+- 98.[验证二叉搜索树](tree/98_valid_bst.go)
+- 100.[相同的树](tree/100_is_same_tree.go)
+- 101.[是否镜像树](tree/101_is_symmetric_tree.go)
+- 102.[按层遍历](tree/102_level_order.go)
+- 103.[Z字遍历](tree/103_zigzag_level_order.go)
+- 104.[最大深度](tree/104_max_deep.go)
+- 107.[底部层次遍历](tree/107_level_order_bst.go)
+- 144.[二叉树前序遍历](tree/144_preorder_traversal.go)
+- 145.[二叉树后序遍历](tree/145_postorder_traversal.go)
