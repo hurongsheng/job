@@ -57,5 +57,6 @@
 - 103.[Z字遍历](tree/103_zigzag_level_order.go)
 - 104.[最大深度](tree/104_max_deep.go)
 - 107.[底部层次遍历](tree/107_level_order_bst.go)
+- 107.[有序数组转二叉树](tree/108_sorted_to_bst.go)
 - 144.[二叉树前序遍历](tree/144_preorder_traversal.go)
 - 145.[二叉树后序遍历](tree/145_postorder_traversal.go)

@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2428c1-a65b-4efe-b1a9-f090ce20dbbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/100_is_same_tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/101_is_symmetric_tree.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/102_level_order.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/103_zigzag_level_order.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/104_max_deep.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/144_preorder_traversal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/145_postorder_traversal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/94_inorder_traversal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/tree/98_valid_bst.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/tree/108_sorted_to_bst.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,49 +16,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="351">
-                <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+              <first_editor relative-caret-position="336">
+                <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[107]二叉树的层次遍历 II.go">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[110]平衡二叉树.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+            <state relative-caret-position="184">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/tree/108_sorted_to_bst.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[96]不同的二叉搜索树.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-              <folding>
-                <element signature="e#607#671#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/tree/103_zigzag_level_order.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <entry file="file://$PROJECT_DIR$/md/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -135,10 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[83]删除排序链表中的重复元素.go" />
-        <option value="$PROJECT_DIR$/leetcode/linkrange/83_delete_dup_node.go" />
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[86]分隔链表.go" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[92]反转链表 II.go" />
         <option value="$PROJECT_DIR$/leetcode/linkrange/92_reverse_between.go" />
         <option value="$PROJECT_DIR$/leetcode/linkrange/86_partition_node.go" />
@@ -185,14 +184,18 @@
         <option value="$PROJECT_DIR$/leetcode/tree/98_valid_bst.go" />
         <option value="$PROJECT_DIR$/leetcode/tree/104_max_deep.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[107]二叉树的层次遍历 II.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.go" />
+        <option value="$PROJECT_DIR$/leetcode/tree/108_sorted_to_bst.go" />
+        <option value="$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go" />
         <option value="$PROJECT_DIR$/leetcode/readme.md" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[110]平衡二叉树.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,7 +241,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,10 +291,9 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="821" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18194842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18481375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,12 +306,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49498567" visible="true" weight="0.32784638" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5050143" side_tool="true" visible="true" weight="0.32784638" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49426934" visible="true" weight="0.32734805" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5057307" side_tool="true" visible="true" weight="0.32734805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.23137535" />
+      <window_info active="true" anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.23137535" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -317,10 +319,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/hui-wen-lian-biao-by-leetcode.md" />
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[160]相交链表.go" />
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[143]重排链表.go" />
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[328]奇偶链表.go" />
     <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[237]删除链表中的节点.go" />
     <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[234]回文链表.go" />
     <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[206]反转链表.go" />
@@ -518,6 +516,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/102_level_order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[95]不同的二叉搜索树 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[107]二叉树的层次遍历 II.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[96]不同的二叉搜索树.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -549,10 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/145_postorder_traversal.go">
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="142">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -563,44 +589,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/102_level_order.go">
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/145_postorder_traversal.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[95]不同的二叉搜索树 II.go">
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/108_sorted_to_bst.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[107]二叉树的层次遍历 II.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        <state relative-caret-position="395">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="351">
-            <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <first_editor relative-caret-position="336">
+            <caret line="59" column="15" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[110]平衡二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>

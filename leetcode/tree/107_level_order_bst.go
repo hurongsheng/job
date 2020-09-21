@@ -30,7 +30,7 @@
  *     Right *TreeNode
  * }
  */
-package main
+package tree
 
 func levelOrderBottom(root *TreeNode) [][]int {
 	res := make([][]int, 0)
