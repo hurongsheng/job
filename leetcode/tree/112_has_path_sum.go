@@ -27,7 +27,7 @@
  *     Right *TreeNode
  * }
  */
-package main
+package tree
 
 func hasPathSum(root *TreeNode, sum int) bool {
 	if root == nil {

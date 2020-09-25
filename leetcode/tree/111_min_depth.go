@@ -27,7 +27,7 @@
  *     Right *TreeNode
  * }
  */
-package main
+package tree
 
 func minDepth(root *TreeNode) int {
 	if root == nil {
