@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	. "job/leetcode/linkrange"
+	"job/leetcode/slicerange"
 )
 
 func main() {
@@ -29,8 +30,9 @@ func main() {
 	//print(intrange.ThreeSumClosest([]int{-1, 0, 1, 2, -1, -4}, 2), 2)
 	//print(intrange.ThreeSumClosest([]int{-1, 2, 1, -4}, 1), 2)
 	//print(stringrange.GenerateParenthesis(3), []string{"((()))", "(()())", "(())()", "()(())", "()()()"})
-	print(DeleteDuplicates(&ListNode{1, &ListNode{1, nil}}), nil)
+	//print(DeleteDuplicates(&ListNode{1, &ListNode{1, nil}}), nil)
 
+	print(slicerange.MaxSlidingWindow([]int{-6, -10, -7, -1, -9, 9, -8, -4, 10, -5, 2, 9, 0, -7, 7, 4, -2, -10, 8, 7}, 6), nil)
 }
 
 func print(i interface{}, eq interface{}) {
