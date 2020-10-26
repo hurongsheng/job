@@ -35,8 +35,9 @@
 
 ### 数组问题
 - 1.[两数之和](slicerange/1_two_sum.go)
-- 27.[删除重复元素](slicerange/26_remove_dup.go)
+- 26.[删除重复元素](slicerange/26_remove_dup.go)
 - 27.[删除指定元素](slicerange/27_remove_ele.go)
+- 33.[搜索旋转数组](slicerange/33_search_swap_arr.go)
 - 215.[数组中第k个最大元素](slicerange/215_kth.go)
 - 239.[最大滑动窗口](slicerange/239_max_sliding_window.go)
 - 841.[钥匙和房间](slicerange/841_kesy_and_rooms.go)
