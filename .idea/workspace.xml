@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2428c1-a65b-4efe-b1a9-f090ce20dbbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/slicerange/215_kth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/slicerange/26_remove_dup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md/mq/zookeeper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,19 +30,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[239]滑动窗口最大值.go">
+        <entry file="file://$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="56" selection-start-line="56" selection-end-line="57" />
+            <state relative-caret-position="765">
+              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/md/mq/kafka.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="259">
+                <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go">
+        <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[27]移除元素.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+            <state relative-caret-position="345">
+              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/md/mq/zookeeper.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -51,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            <state relative-caret-position="510">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -86,11 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[26]删除排序数组中的重复项.go" />
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[71]简化路径.go" />
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[144]二叉树的前序遍历.go" />
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[145]二叉树的后序遍历.go" />
-        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[94]二叉树的中序遍历.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[103]二叉树的锯齿形层次遍历.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[95]不同的二叉搜索树 II.go" />
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[96]不同的二叉搜索树.go" />
@@ -137,14 +153,18 @@
         <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[239]滑动窗口最大值.go" />
         <option value="$PROJECT_DIR$/leetcode/main.go" />
         <option value="$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go" />
+        <option value="$PROJECT_DIR$/md/mq/kafka.go" />
+        <option value="$PROJECT_DIR$/md/mq/kafka.md" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[26]删除排序数组中的重复项.go" />
+        <option value="$PROJECT_DIR$/leetcode/slicerange/26_remove_dup.go" />
+        <option value="/var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[27]移除元素.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-303" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,11 +183,6 @@
             <path>
               <item name="job" type="b2602c69:ProjectViewProjectNode" />
               <item name="job" type="462c0819:PsiDirectoryNode" />
-              <item name="acm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +195,12 @@
               <item name="job" type="b2602c69:ProjectViewProjectNode" />
               <item name="job" type="462c0819:PsiDirectoryNode" />
               <item name="md" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="job" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="job" type="b2602c69:ProjectViewProjectNode" />
@@ -240,10 +261,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1440" height="816" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21060172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23065902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,11 +278,11 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48782235" weight="0.30248618" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143266" side_tool="true" visible="true" weight="0.45165744" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143266" side_tool="true" visible="true" weight="0.30727023" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.23137535" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.23137535" />
       <window_info anchor="right" id="Database" order="4" weight="0.3295129" />
     </layout>
   </component>
@@ -269,24 +290,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.go" />
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[107]二叉树的层次遍历 II.go" />
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[96]不同的二叉搜索树.go" />
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/103_zigzag_level_order.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.go" />
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/108_sorted_to_bst.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/tree/107_level_order_bst.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -308,116 +311,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[110]平衡二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-shu-de-zui-xiao-shen-du-by-leetcode-solutio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1634" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/java-dfsdi-gui-yi-dong-10000-by-lonepwq.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[112]路径总和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-shu-zhan-kai-wei-lian-biao-by-leetcode-solu.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="186">
-            <caret line="58" column="24" selection-start-line="56" selection-end-line="72" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[114]二叉树展开为链表.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[113]路径总和 II.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[111]二叉树的最小深度.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[110]平衡二叉树.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-shu-de-zui-xiao-shen-du-by-leetcode-solutio.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/java-dfsdi-gui-yi-dong-10000-by-lonepwq.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[112]路径总和.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-shu-zhan-kai-wei-lian-biao-by-leetcode-solu.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[114]二叉树展开为链表.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[113]路径总和 II.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[111]二叉树的最小深度.go" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/111_min_depth.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/models.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-sou-suo-shu-die-dai-qi-by-leetcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="300">
-            <caret line="159" column="7" lean-forward="true" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[173]二叉搜索树迭代器.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[129]求根到叶子节点数字之和.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/0mswu-nao-jian-ji-golangjie-by-ukcuf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" selection-start-line="7" selection-end-line="20" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/models.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/er-cha-sou-suo-shu-die-dai-qi-by-leetcode.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[173]二叉搜索树迭代器.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[129]求根到叶子节点数字之和.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[116]填充每个节点的下一个右侧节点指针.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/0mswu-nao-jian-ji-golangjie-by-ukcuf.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/104_max_deep.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -425,37 +335,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[199]二叉树的右视图.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/man-hua-tu-jie-wan-quan-er-cha-shu-by-ivan1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="177">
-            <caret line="115" column="41" lean-forward="true" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[222]完全二叉树的节点个数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[226]翻转二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[199]二叉树的右视图.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/man-hua-tu-jie-wan-quan-er-cha-shu-by-ivan1.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[222]完全二叉树的节点个数.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[226]翻转二叉树.go" />
     <entry file="file://$PROJECT_DIR$/leetcode/tree/226_invert_tree.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -505,33 +388,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="247">
-            <caret line="279" column="18" lean-forward="true" selection-start-line="279" selection-start-column="18" selection-end-line="279" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[218]天际线问题.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/shu-zu-zhong-de-di-kge-zui-da-yuan-su-by-leetcode-.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="460">
-            <caret line="182" column="10" selection-start-line="182" selection-start-column="10" selection-end-line="182" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/hua-dong-chuang-kou-zui-da-zhi-by-leetcode-3.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[218]天际线问题.go" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/shu-zu-zhong-de-di-kge-zui-da-yuan-su-by-leetcode-.md" />
     <entry file="file://$PROJECT_DIR$/leetcode/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -549,9 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[23]合并K个升序链表.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[23]合并K个升序链表.go" />
     <entry file="file://$PROJECT_DIR$/leetcode/linkrange/23_merge_n_linknode.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -559,13 +416,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[215]数组中的第K个最大元素.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[215]数组中的第K个最大元素.go" />
     <entry file="file://$PROJECT_DIR$/leetcode/slicerange/215_kth.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -590,34 +441,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/shuang-xiang-dui-lie-jie-jue-hua-dong-chuang-kou-2.md">
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/doc/shuang-xiang-dui-lie-jie-jue-hua-dong-chuang-kou-2.md" />
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[239]滑动窗口最大值.go" />
+    <entry file="file://$PROJECT_DIR$/md/mq/kafka.go" />
+    <entry file="file://$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/mq/zookeeper.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="510">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[239]滑动窗口最大值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="56" selection-start-line="56" selection-end-line="57" />
+    <entry file="file://$PROJECT_DIR$/md/mq/kafka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="259">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/slicerange/239_max_sliding_window.go">
+    <entry file="file://$PROJECT_DIR$/leetcode/slicerange/26_remove_dup.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        <state relative-caret-position="213">
+          <caret line="54" column="15" lean-forward="true" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[26]删除排序数组中的重复项.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/0k/k_f4vg7d64bc01yn0xq32x6w0000gn/T/leetcode/editor/cn/[27]移除元素.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
         </state>
       </provider>
     </entry>
