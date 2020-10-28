@@ -14,7 +14,7 @@ func main() {
 	fmt.Printf("%+v\n", &arr[0])
 
 	testSlice()
-
+	pase_student()
 }
 
 func appendSlice(arr []int) []int {
@@ -30,19 +30,38 @@ func appendSlice2(arr []int) {
 
 func testSlice() {
 	slice := []int{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-	s1 := slice[2:5]//2,3,4
+	s1 := slice[2:5] //2,3,4
 	s1[2] = 20
 	fmt.Println(s1)
-	s1=append(s1,30)
+	s1 = append(s1, 30)
 	fmt.Println(s1)
 	fmt.Println(slice)
 
 	fmt.Println("s2")
-	s2 := s1[2:6:7]//4,5,6,7
+	s2 := s1[2:6:7] //4,5,6,7
 	fmt.Println(s2)
 	s2 = append(s2, 100)
 	s2 = append(s2, 200)
 	s1[2] = 20
 	fmt.Println(s2)
 	fmt.Println(slice)
+}
+
+type student2 struct {
+	Name string
+	Age  int
+}
+
+func pase_student() {
+	m := make(map[string]*student2)
+	stus := []student2{
+		{Name: "zhou", Age: 24},
+		{Name: "li", Age: 23},
+		{Name: "wang", Age: 22},
+	}
+	for _, stu := range stus {
+		m[stu.Name] = &stu
+	}
+	fmt.Printf("%+v", m)
+
 }

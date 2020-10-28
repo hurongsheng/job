@@ -9,7 +9,7 @@ const (
 	TypeD
 )
 const (
-	TypeAA = iota
+	TypeAA = iota * 3
 	TypeBB
 	TypeCC
 	TypeDD
