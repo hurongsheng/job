@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e2428c1-a65b-4efe-b1a9-f090ce20dbbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/md/case/采坑记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/md/case/秒杀.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/case/秒杀.md" afterDir="false" />
-    </list>
+    <list default="true" id="3e2428c1-a65b-4efe-b1a9-f090ce20dbbb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/md/case/秒杀.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <first_editor relative-caret-position="210">
+                <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -67,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/md/case/采坑记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <first_editor relative-caret-position="435">
+                <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -116,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/md/case/缓存.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="515">
+              <first_editor relative-caret-position="529">
                 <caret line="59" selection-start-line="59" selection-end-line="59" />
               </first_editor>
               <second_editor />
@@ -352,9 +348,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23352435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23352435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,7 +362,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48782235" weight="0.30248618" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.48782235" visible="true" weight="0.30178326" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143266" side_tool="true" weight="0.3621399" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -664,7 +659,7 @@
     <entry file="file://$PROJECT_DIR$/md/case/缓存.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
+          <first_editor relative-caret-position="529">
             <caret line="59" selection-start-line="59" selection-end-line="59" />
           </first_editor>
           <second_editor />
@@ -682,8 +677,8 @@
     <entry file="file://$PROJECT_DIR$/md/case/秒杀.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -692,8 +687,8 @@
     <entry file="file://$PROJECT_DIR$/md/case/采坑记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
