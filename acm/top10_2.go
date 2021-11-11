@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"job/util"
+	//"job/util"
 	"math/rand"
 	"time"
 )
@@ -51,7 +52,7 @@ func main() {
 }
 
 func randDataToChan(chData chan []int, chDown chan bool, deep int, max int) {
-	sw := util.NewSportWaitGroup(100)
+	sw := util.NewSportWaitGroup(40)
 	//sw := sync.WaitGroup{}
 	for j := 0; j < deep; j++ {
 		sw.Add(1)

@@ -131,7 +131,7 @@ func (w *waitGroup) runSportMode() {
 	//t时间调速一次
 	go func() {
 		for {
-			maxI := 100
+			maxI := 50
 			sep := w.maxLen / maxI
 			if sep <= 0 {
 				sep = 1

@@ -9,7 +9,7 @@ import (
 
 func main() {
 	rand.Seed(time.Now().UnixNano())
-	deep, max := 10000, 10000
+	deep, max := 100000, 10000
 	fmt.Printf("time: %v deep: %v \n", time.Now().Unix(), deep)
 	arr := randData(deep, max)
 	fmt.Printf("time: %v deep: %v \n", time.Now().Unix(), deep)
@@ -73,6 +73,7 @@ func getTop10(arr sync.Map) sync.Map {
 	sw.Wait()
 	return top10Part
 }
+
 func mergeTop10(top10Part sync.Map, max int) (sync.Map, int) {
 	top10Arr := make(map[int][]int, 0)
 	top10PartSyncMap := sync.Map{}

@@ -44,7 +44,7 @@ func randArr(num int, max int) []int {
 	return arr
 }
 
-//O(N*logN)
+//O(N*logN) 快排
 func QuickSort(values []int) []int {
 	if len(values) <= 1 {
 		return values
@@ -53,23 +53,20 @@ func QuickSort(values []int) []int {
 	head, tail := 0, len(values)-1
 	for head < tail {
 		if values[i] > mid {
-			fmt.Printf("arr %+v,head %v,tail %v mid %v  switch(%v,%v) \n", values, head, tail, mid, i, tail)
 			values[i], values[tail] = values[tail], values[i]
 			tail--
 		} else {
-			fmt.Printf("arr %+v,head %v,tail %v mid %v  switch(%v,%v) \n", values, head, tail, mid, i, head)
 			values[i], values[head] = values[head], values[i]
 			head++
 			i++
 		}
 	}
-	fmt.Printf("arr %+v,head %v,tail %v mid %v \n", values, head, tail, mid)
-
 	QuickSort(values[:head])
 	QuickSort(values[head+1:])
 	return values
 }
 
+//O(N*logN) 冒泡
 func BubbleSort(arr []int) []int {
 	for i := 0; i < len(arr); i++ {
 		s := false
